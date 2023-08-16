@@ -1,0 +1,48 @@
+button{
+    .color-button {
+        background-color: blue;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        cursor: pointer;
+    }
+}
+.container{
+    height: 600px;
+    width: 450px;
+    justify-content: center;
+    display: flex;
+    background-color:gray;
+    margin-left: 400px;
+}
+#screen{
+
+    height: 50px;
+    width: 250px;
+    background: #fff;
+    margin-top: 50px;
+}
+.topnav{
+    
+    width: 11000px;
+    height: 50px;
+    background-color: red;
+}
+
+#output{
+    height: 50px;
+    width: 250px;
+    background: #fff;
+    pointer-events: none;
+}
+.row{
+    height: 80px;
+
+    
+}
+.text-white{
+    margin-left: 35px;
+    margin-top: 20px;
+}
+
+
